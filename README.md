@@ -1,18 +1,19 @@
-# 🎮 TicTacToe-Python 
+# 🎮 TicTacToe-Python ULTIMATE
 
-A simple Tic Tac Toe game built with Python.
+A Tic Tac Toe game built with Python.
 
-## 🚀 Features
+## Features
 
-- Two player mode
-- Win detection
-- Draw detection
-- Interactive terminal gameplay
+- Player vs Player
+- Player vs AI
+- AI difficulty levels
+- Score system
+- Portuguese and English support
 
-## 🛠 Technology
+## Technologies
 
-Python 🐍
+🐍 Python
 
-## 👨‍💻 Developer
+## Developer
 
 NkzDev-Cyber
